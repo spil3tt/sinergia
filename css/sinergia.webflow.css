@@ -1,0 +1,58 @@
+.body {
+  margin-right: 0px;
+  padding-right: 0px;
+  background-image: url('../images/pexels-photo-119564.jpeg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.sinergia {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  display: inline-block;
+  margin-top: 72px;
+  color: #fff;
+  font-size: 141px;
+  text-align: center;
+  text-transform: none;
+}
+
+.work-div {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.wip-txt {
+  display: block;
+  font-family: FreeDesign, sans-serif;
+  color: #fff;
+  font-size: 29px;
+  text-align: center;
+}
+
+.img {
+  margin-bottom: 24px;
+  background-color: transparent;
+  opacity: 0.5;
+}
+
+.gif {
+  margin-bottom: 15px;
+}
+
+@font-face {
+  font-family: 'FreeDesign';
+  src: url('../fonts/FreeDesign001Bitbit.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
